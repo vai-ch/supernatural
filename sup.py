@@ -1,2 +1,3 @@
 def s():
-  pritn("s")
+  print("s")
+s()
