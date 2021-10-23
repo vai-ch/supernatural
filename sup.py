@@ -1,1 +1,2 @@
-s
+def s():
+  pritn("s")
