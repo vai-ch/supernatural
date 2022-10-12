@@ -1,4 +1,4 @@
 def a(s):
-  print("a")
+  print(s)
 
 a(1)
