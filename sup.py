@@ -1,3 +1,3 @@
-def s():
+def s(a):
   print("s")
-s()
+s(1)
