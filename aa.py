@@ -1,4 +1,4 @@
-def a():
+def a(s):
   print("a")
 
-a()
+a(1)
