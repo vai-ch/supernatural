@@ -1,4 +1,4 @@
 def s(a):
   print(a)
-  print("A")
+  print("B")
 s(1)
